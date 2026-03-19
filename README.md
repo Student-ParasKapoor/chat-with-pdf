@@ -2,7 +2,7 @@
 
 Ask questions about any PDF using AI.
 
-**Live Demo:** [your-app.streamlit.app](link)
+**Live Demo:** [chat-with-pdf-by-paras.streamlit.app](https://chat-with-pdf-by-paras.streamlit.app/)
 
 ## Stack
 - Groq LLaMA 3 (LLM)
